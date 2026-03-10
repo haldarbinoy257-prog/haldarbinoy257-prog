@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.TECH(CSE)AI & ML student at Galgotias University with a strong interest in Data Analytics, problem solving, and building real-world tech solutions.<br>🔭 I’m currently working on **DSA practice and real-world projects**  Aspiring Data Analytics **  <br> I’m looking for help with **advanced Data Analytics and Machine Learning**   <br>TECHNICAL SKILLS<br>Programming & Query Languages: C, Java,Python<br>Web & Data Tools: HTML, CSS, JavaScript<br>Databases: MySQL<br>Tools & Platforms: MS Excel, Power Bi,MS Power point, MS Word, Git, GitHub<br>Languages (spoken): English ,bengali and hindi<br>**As I always say — haal cherona bondhu **
+B.TECH(CSE)AI & ML student at Galgotias University with a strong interest in Data Analytics, problem solving, and building real-world tech solutions.<br>🔭 I’m currently working on **DSA practice and real-world projects**  Aspiring Data Analytics **  <br> I’m looking for help with **advanced Data Analytics and Machine Learning**   <br>TECHNICAL SKILLS<br>Programming & Query Languages: C, Java,Python,Sql<br>Web & Data Tools: HTML, CSS, JavaScript<br>Databases: MySQL<br>Tools & Platforms: MS Excel, Power Bi,MS Power point, MS Word, Git, GitHub<br>Languages (spoken): English ,bengali and hindi<br>**As I always say — haal cherona bondhu **
 
 
 ## 🌐 Socials:
